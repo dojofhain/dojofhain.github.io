@@ -1,0 +1,34 @@
+{
+    "docs": [
+        {
+            "location": "/index.html", 
+            "text": "Blockbasierte Sprachen\n\n\nPython", 
+            "title": "\u00dcbersicht"
+        }, 
+        {
+            "location": "/block_based/index.html", 
+            "text": "Scratch\n\n\nDen Scratch Editor kannst Du \nhier\n starten.\n\n\nSnap\n\n\nDen Snap Editor kannst Du \nhier\n starten.", 
+            "title": "Blockbasierte Sprachen"
+        }, 
+        {
+            "location": "/block_based/index.html#scratch", 
+            "text": "Den Scratch Editor kannst Du  hier  starten.", 
+            "title": "Scratch"
+        }, 
+        {
+            "location": "/block_based/index.html#snap", 
+            "text": "Den Snap Editor kannst Du  hier  starten.", 
+            "title": "Snap"
+        }, 
+        {
+            "location": "/python/index.html", 
+            "text": "Homepage\n\n\nDie Python Homepage findest Du \nhier\n.", 
+            "title": "Python"
+        }, 
+        {
+            "location": "/python/index.html#homepage", 
+            "text": "Die Python Homepage findest Du  hier .", 
+            "title": "Homepage"
+        }
+    ]
+}
