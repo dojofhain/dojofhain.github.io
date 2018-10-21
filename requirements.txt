@@ -1,0 +1,4 @@
+Sphinx==1.7.*
+sphinx-autobuild
+sphinx-rtd-theme
+sphinxcontrib-inlinesyntaxhighlight
